@@ -39,7 +39,7 @@ public class age {
         }else {
             middleAge = thirdAge;
         }
-
+        //Тест для GitHub!
         System.out.println("Средний возраст: "       + middleAge);
         System.out.println("Максимальный возраст: "  + maxAge);
         System.out.println("Меньший возраст: "       + minAge);
